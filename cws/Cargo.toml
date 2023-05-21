@@ -1,0 +1,14 @@
+[package]
+name = "cws"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+axum = { version = "0.6.18", features = ["ws"] }
+futures = "0.3.28"
+thiserror = "1.0.40"
+tokio = { version = "1.28.1", features = ["full"] }
+tower = "0.4.13"
+tracing = "0.1.37"
+tracing-subscriber = { version = "0.3.17", features = ["env-filter"] }

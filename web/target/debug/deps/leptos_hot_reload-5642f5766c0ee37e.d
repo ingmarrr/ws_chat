@@ -1,0 +1,11 @@
+/Users/ingmarfalk/projects/rust/ws_chat/web/target/debug/deps/leptos_hot_reload-5642f5766c0ee37e.rmeta: /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/lib.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/diff.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/node.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/parsing.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/patch.js
+
+/Users/ingmarfalk/projects/rust/ws_chat/web/target/debug/deps/libleptos_hot_reload-5642f5766c0ee37e.rlib: /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/lib.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/diff.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/node.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/parsing.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/patch.js
+
+/Users/ingmarfalk/projects/rust/ws_chat/web/target/debug/deps/leptos_hot_reload-5642f5766c0ee37e.d: /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/lib.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/diff.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/node.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/parsing.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/patch.js
+
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/lib.rs:
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/diff.rs:
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/node.rs:
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/parsing.rs:
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/leptos_hot_reload-0.3.0/src/patch.js:

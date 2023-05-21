@@ -1,0 +1,5 @@
+/Users/ingmarfalk/projects/rust/ws_chat/web/target/debug/deps/futures-11dcf81294b5a738.rmeta: /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-0.3.28/src/lib.rs
+
+/Users/ingmarfalk/projects/rust/ws_chat/web/target/debug/deps/futures-11dcf81294b5a738.d: /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-0.3.28/src/lib.rs
+
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-0.3.28/src/lib.rs:

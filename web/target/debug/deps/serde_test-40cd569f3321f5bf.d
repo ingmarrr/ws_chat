@@ -1,0 +1,11 @@
+/Users/ingmarfalk/projects/rust/ws_chat/web/target/debug/deps/serde_test-40cd569f3321f5bf.rmeta: /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/lib.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/de.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/error.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/ser.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/assert.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/configure.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/token.rs
+
+/Users/ingmarfalk/projects/rust/ws_chat/web/target/debug/deps/serde_test-40cd569f3321f5bf.d: /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/lib.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/de.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/error.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/ser.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/assert.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/configure.rs /Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/token.rs
+
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/lib.rs:
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/de.rs:
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/error.rs:
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/ser.rs:
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/assert.rs:
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/configure.rs:
+/Users/ingmarfalk/.cargo/registry/src/github.com-1ecc6299db9ec823/serde_test-1.0.163/src/token.rs:

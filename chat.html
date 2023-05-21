@@ -21,28 +21,28 @@
             join_btn.addEventListener("click", function(e) {
                 this.disabled = true;
 
-                const websocket = new WebSocket("ws://localhost:3001/ws");
+                const ws = new WebSocket("ws://localhost:3001/ws");
 
-                websocket.onopen = function() {
+                ws.onopen = function() {
                     console.log("connection opened");
-                    websocket.send(username.value);
+                    ws.send(username.value);
                 }
 
                 const btn = this;
 
-                websocket.onclose = function() {
+                ws.onclose = function() {
                     console.log("connection closed");
                     btn.disabled = false;
                 }
 
-                websocket.onmessage = function(e) {
+                ws.onmessage = function(e) {
                     console.log("received message: "+e.data+"\n");
                     textarea.value += e.data+"\r\n";
                 }
 
                 input.onkeydown = function(e) {
                     if (e.key == "Enter") {
-                        websocket.send(input.value);
+                        ws.send(input.value);
                         input.value = "";
                     }
                 }
